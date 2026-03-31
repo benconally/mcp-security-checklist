@@ -1,5 +1,3 @@
----
-
 # MCP Security Checklist for AI Agent Builders (2026)
 
 **30 CVEs in 60 days. 38% of servers have zero auth. Here's how to not be the next breach.**
